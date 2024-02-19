@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - [App Landing Page](https://apps.tecstarstudio.com)
 
 # Android App sample:
-![Android App](https://drive.google.com/file/d/1SLEgUVMf0nghNU5JsOz460U_9KCK7Zzu/view?usp=drive_link)
+![Android App](https://github.com/TecStarStudio/TecStarStudio/blob/main/images/new_template_sample.gif)
 
 # :clipboard: Architecture Diagram
 !(https://github.com/TecStarStudio/TecStarStudio/assets/19540878/46a07714-366a-418e-8406-2427590df627)
