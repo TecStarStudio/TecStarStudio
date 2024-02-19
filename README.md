@@ -20,6 +20,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about: Psychology
 - ⚡ Fun fact: I flew in a Jet as a Copilot
 
+# 💫 The Project:
+- <b>Name:</b> Tec Star Studio
+- <b>Goal:</b> Combining design and technology to bring the best apps to you.
+- [Google Play Page](https://play.google.com/store/apps/dev?id=6397085164428144751)
+- [App Landing Page](https://apps.tecstarstudio.com)
+
+# :clipboard: Architecture Diagram
+![image](https://github.com/TecStarStudio/TecStarStudio/assets/19540878/46a07714-366a-418e-8406-2427590df627)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/geraldo-borges-0570b450) 
 
