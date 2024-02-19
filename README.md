@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
+- My public Github account: https://github.com/Geraldoab
 - 🔭 I’m currently working on a project migration from ASP.NET MVC to ASP.NET Core 8
 - 🌱 I’m currently learning React
 - 💬 Ask me about: Psychology
