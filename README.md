@@ -26,8 +26,11 @@ Here are some ideas to get you started:
 - [Google Play Page](https://play.google.com/store/apps/dev?id=6397085164428144751)
 - [App Landing Page](https://apps.tecstarstudio.com)
 
+# Android App sample:
+![Android App](https://drive.google.com/file/d/1SLEgUVMf0nghNU5JsOz460U_9KCK7Zzu/view?usp=drive_link)
+
 # :clipboard: Architecture Diagram
-![image](https://github.com/TecStarStudio/TecStarStudio/assets/19540878/46a07714-366a-418e-8406-2427590df627)
+!(https://github.com/TecStarStudio/TecStarStudio/assets/19540878/46a07714-366a-418e-8406-2427590df627)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/geraldo-borges-0570b450) 
