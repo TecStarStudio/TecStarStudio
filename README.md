@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 # Android App sample:
 ![Android App](https://github.com/TecStarStudio/TecStarStudio/blob/main/images/new_template_sample.gif)
 
+# CMS Portal sample:
+![CMS](https://github.com/TecStarStudio/TecStarStudio/blob/main/images/cms_sample.gif)
+
 # :clipboard: Architecture Diagram
 ![image](https://github.com/TecStarStudio/TecStarStudio/assets/19540878/8bf7c051-226f-4fc2-a3c2-ffc8293fd9f1)
 
