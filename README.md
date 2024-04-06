@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 - My public Github account: https://github.com/Geraldoab
-- 🔭 I’m currently working on a project migration from ASP.NET MVC to ASP.NET Core 8
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on a database migration from Microsoft Sql Server to Google Firestore.
+- 🌱 I’m currently learning Angular
 - 💬 Ask me about: Psychology
 - ⚡ Fun fact: I flew in a Jet as a Copilot
 
